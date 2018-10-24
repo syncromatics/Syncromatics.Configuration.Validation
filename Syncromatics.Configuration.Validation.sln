@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syncromatics.Configuration.Validation", "src\Syncromatics.Configuration.Validation\Syncromatics.Configuration.Validation.csproj", "{46789FAA-CF8B-45ED-A02A-4A694FCA73F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F6184B5D-D7F3-40E1-89A7-F1E2A3FE2BF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{B4CCBE83-00DA-49B4-ACEF-1F04AE4CA8CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syncromatics.Configuration.Validation.UnitTests", "tests\Syncromatics.Configuration.Validation.UnitTests\Syncromatics.Configuration.Validation.UnitTests.csproj", "{4F76950B-8A1F-4233-B2D6-AF9717050942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46789FAA-CF8B-45ED-A02A-4A694FCA73F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46789FAA-CF8B-45ED-A02A-4A694FCA73F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46789FAA-CF8B-45ED-A02A-4A694FCA73F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46789FAA-CF8B-45ED-A02A-4A694FCA73F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F76950B-8A1F-4233-B2D6-AF9717050942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F76950B-8A1F-4233-B2D6-AF9717050942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F76950B-8A1F-4233-B2D6-AF9717050942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F76950B-8A1F-4233-B2D6-AF9717050942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{46789FAA-CF8B-45ED-A02A-4A694FCA73F5} = {F6184B5D-D7F3-40E1-89A7-F1E2A3FE2BF8}
+		{4F76950B-8A1F-4233-B2D6-AF9717050942} = {B4CCBE83-00DA-49B4-ACEF-1F04AE4CA8CA}
+	EndGlobalSection
+EndGlobal
