@@ -1,0 +1,15 @@
+.vs
+.vscode
+.idea
+artifacts
+packages
+node_modules
+**/bin
+**/obj
+*.csproj.user
+tools
+!tools/packages.config
+*TestResult*.xml
+chart/**/Chart.yaml
+*.tgz
+*.DotSettings.user
